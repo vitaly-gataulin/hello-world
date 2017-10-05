@@ -1,2 +1,2 @@
 # hello-world
-For nothing
+This my firsst repository. I created this to practice with github.
